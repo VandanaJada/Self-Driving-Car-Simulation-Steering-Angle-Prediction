@@ -2,6 +2,9 @@
 
 This project demonstrates an end-to-end pipeline for building an autonomous driving model. Using the Udacity Self-Driving Car Simulator, we developed a Convolutional Neural Network (CNN) to predict steering angles from simulated driving data, enabling the car to drive autonomously.
 
+![image](https://github.com/user-attachments/assets/01f3814d-6c5b-49bf-8688-7ef938d24f73)
+
+
 ---
 
 ## Project Overview
