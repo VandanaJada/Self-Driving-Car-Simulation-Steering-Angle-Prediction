@@ -68,15 +68,15 @@ The CNN architecture is inspired by NVIDIA's end-to-end self-driving car model:
 ### 1. Clone the Repository
 git clone https://github.com/VandanaJada/Self-Driving-Car-Simulation-Steering-Angle-Prediction.git
 cd Self-Driving-Car-Simulation
-2. Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
-3. Prepare Data
+### 3. Prepare Data
 Use the Udacity simulator to collect driving data or use the sample data provided in the data/ folder.
-4. Train the Model
+### 4. Train the Model
 Run the training notebook or script:
 
 python model/model.py
-5. Test in Simulator
+### 5. Test in Simulator
 Load the trained model in the simulator and run it in autonomous mode.
 
 
