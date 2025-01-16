@@ -50,17 +50,6 @@ The CNN architecture is inspired by NVIDIA's end-to-end self-driving car model:
 - **Activation**: ReLU for non-linearity.
 - **Output**: Single scalar for steering angle.
 
-![Model Architecture](results/model_architecture.png)
-
----
-
-## Results
-
-- **Validation Loss**: Achieved a low Mean Squared Error (MSE) of `X`.
-- **Performance**: The car successfully drives autonomously on the simulator track.
-
-![Predicted vs. Actual Steering Angles](results/predictions_plot.png)
-
 ---
 
 ## How to Run
